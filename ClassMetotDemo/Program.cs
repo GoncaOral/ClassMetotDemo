@@ -18,6 +18,7 @@ namespace ClassMetotDemo
 
             Console.WriteLine("Müşteri Silme");
             musterimanager.Delete(2, "Özge");
+
         }
     }
 }

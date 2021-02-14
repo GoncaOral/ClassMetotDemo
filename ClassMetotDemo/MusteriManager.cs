@@ -12,7 +12,6 @@ namespace ClassMetotDemo
         }
         public void list()
         {
-
             Musteri musteri1 = new Musteri();
             musteri1.Id = 1;
             musteri1.MusteriAdi = "Demet";
